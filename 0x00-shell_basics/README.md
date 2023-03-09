@@ -1,1 +1,2 @@
-shell script for printing current working directory
+pwd
+ls
